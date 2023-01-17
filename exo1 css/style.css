@@ -1,0 +1,25 @@
+#partie1{
+    height:100px;
+    background-color: blue;
+    
+}
+
+.partie2{
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    grid-gap: 5%;
+    margin-top:1em;
+}
+
+.block{
+height: 500px;}
+
+#block1{
+background-color: darkgreen;
+}
+
+#block2{
+background-color:coral;
+}
+
+#block3{background-color: brown;}
